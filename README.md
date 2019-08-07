@@ -1,2 +1,2 @@
-# MyPortfolio
-Prototype
+Just a
+prototype of my
