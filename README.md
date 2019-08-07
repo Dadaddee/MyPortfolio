@@ -1,2 +1,2 @@
-Just a
-prototype of my
+Just a prototype of my portfolio
+
